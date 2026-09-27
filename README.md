@@ -1,0 +1,1 @@
+To run the script, execute `python markov_namegen.py --order N --examples example1 example2 ...` where `N` is the order of the Markov chain and `example1 example2 ...` are the names to train the generator.
